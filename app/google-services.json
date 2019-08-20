@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652993879369",
+    "firebase_url": "https://dropmeme-898fd.firebaseio.com",
+    "project_id": "dropmeme-898fd",
+    "storage_bucket": "dropmeme-898fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652993879369:android:978a4c0772422673",
+        "android_client_info": {
+          "package_name": "com.dropout.dropmeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652993879369-rof8nsj16gnfjspa20fn4qblrtj1kkqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dropout.dropmeme",
+            "certificate_hash": "d50fdd6b57982c7bd7504ebeea69a1aef1877f54"
+          }
+        },
+        {
+          "client_id": "652993879369-ce0pqetbqbq6hpoicdf2vqfmvtn3otar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXIQHGsk1AF6QBqwvOIgbBmHVTexgT2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652993879369-ce0pqetbqbq6hpoicdf2vqfmvtn3otar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

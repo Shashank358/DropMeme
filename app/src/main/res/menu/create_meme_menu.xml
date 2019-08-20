@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_camera"
+        android:enabled="true"
+        android:icon="@drawable/ic_photo_camera_black_24dp"
+        android:title="Open"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_open"
+        android:enabled="true"
+        android:title="Open"
+        android:icon="@drawable/ic_open_in_browser_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_save"
+        android:enabled="true"
+        android:title="Save"
+        android:icon="@drawable/ic_save_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_send"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Item"
+        app:showAsAction="always" />
+</menu>
